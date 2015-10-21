@@ -1,0 +1,14 @@
+{
+	"category" : "CommandAvailability",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/21/2015 20:50",
+	"instvars" : [
+		 ],
+	"name" : "CACheckerUNIX",
+	"pools" : [
+		 ],
+	"super" : "CAChecker",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am responsible to check if a command is available under the operating system (linux in my case).

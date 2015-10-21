@@ -1,0 +1,3 @@
+accessing
+pathDirectories: aListOfFileReferences
+	pathDirectories := aListOfFileReferences

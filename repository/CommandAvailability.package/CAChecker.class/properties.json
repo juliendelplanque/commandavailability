@@ -1,0 +1,14 @@
+{
+	"category" : "CommandAvailability",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"pathDirectories" ],
+	"commentStamp" : "JulienDelplanque 10/21/2015 21:27",
+	"instvars" : [
+		 ],
+	"name" : "CAChecker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
