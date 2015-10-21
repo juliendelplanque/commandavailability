@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCommandAvailability",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCommandAvailability",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
