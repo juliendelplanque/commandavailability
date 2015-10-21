@@ -9,3 +9,10 @@ Metacello new
     repository: 'github://juliendelplanque/commandavailability/repository';
     load.
 ~~~
+
+## Example
+For Linux you can test it like this:
+~~~
+CACheckerUNIX isAvailable: 'echo'. "true"
+CACheckerUNIX isAvailable: 'ech'. "false if you didn't defined such a command."
+~~~
